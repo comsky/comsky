@@ -1,4 +1,4 @@
-# Hi, I'm comsky 👋
+# Hi, I'm Remy (comsky) 👋
 
 Systems / Platform / Full-Stack Engineer
 
